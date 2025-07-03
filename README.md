@@ -1,6 +1,6 @@
 # Links AI-Sec Charla 02-07-2025
 
-Lista de recursos útiles de la presentación en h4ck3ed 2025 dobre AI-Sec.
+Lista de recursos útiles de la presentación en h4ck3ed 2025 sobre AI-Sec.
 
 *   [AI RMF](https://www.nist.gov/itl/ai-risk-management-framework) - AI Risk Management Framework.
 

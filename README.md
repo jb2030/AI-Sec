@@ -30,3 +30,15 @@ Lista de recursos útiles de la presentación en h4ck3ed 2025 sobre AI-Sec.
 
 *   [GenAI RTeam](https://genai.owasp.org/resource/genai-red-teaming-guide/) - GenAI Red Teaming Guide.
 
+*   [CTF-Gandalf](https://gandalf.lakera.ai/word-blacklist) - Lakera Gandalf CTF.
+
+*   [CTF-hackMerlin](https://hackmerlin.io/) - hackMerlin CTF.
+
+*   [CTF-GPT Prompt Attack](https://gpa.43z.one/) - GPT Prompt Attack by Richard h.43z.one.
+
+*   [CTF-GPT Game](https://gpt.43z.one/) - GPT Prompt Attack by Richard h.43z.one.
+
+*   [CTF-PromptAirlines](https://promptairlines.com/) - Prompt Airlines CTF by WIZ.
+
+*   [CTF-GiskardRed](https://red.giskard.ai/) - Giskard Red CTF by Giskard.
+

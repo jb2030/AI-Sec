@@ -22,7 +22,7 @@ Lista de recursos útiles de la presentación en h4ck3ed 2025 dobre AI-Sec.
 
 *   [OWASP AISVS](https://owasp.org/www-project-artificial-intelligence-security-verification-standard-aisvs-docs/) - OWASP Artificial Intelligence Security Verification Standard AISVS Docs.
 
-*   [OWASP Agentic](https://github.com/precize/Agentic-AI-Top10-Vulnerability) - https://github.com/precize/Agentic-AI-Top10-Vulnerability.
+*   [OWASP Agentic](https://github.com/precize/Agentic-AI-Top10-Vulnerability) - Agentic-AI-Top10-Vulnerability.
 
 *   [IVSS Calculator](https://aivss.owasp.org/) - The AIVSS Calculator Demo.
 

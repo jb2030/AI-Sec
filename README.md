@@ -42,3 +42,6 @@ Lista de recursos útiles de la presentación en h4ck3ed 2025 sobre AI-Sec.
 
 *   [CTF-GiskardRed](https://red.giskard.ai/) - Giskard Red CTF by Giskard.
 
+*   [CTF-AI Prompt Injection](https://ctf.hackthebox.com/pack/ai-prompt-injection-essentials) - hackthebox AI Prompt Injection - Essentials.
+
+*   [CTF-ML CTFs](https://github.com/alexdevassy/Machine_Learning_CTF_Challenges?tab=readme-ov-file) - Machine Learning CTF Challenges.

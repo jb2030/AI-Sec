@@ -1,4 +1,4 @@
-# Links AI-Sec Charla 02-07-2025
+# Links AI-Sec
 
 Lista de recursos útiles de la presentación en h4ck3ed 2025 sobre AI-Sec.
 

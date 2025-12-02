@@ -1,6 +1,6 @@
 # Links AI-Sec
 
-Lista de recursos útiles de la presentación en h4ck3ed 2025 sobre AI-Sec.
+Lista de recursos útiles de la presentación en h4ck3ed Julio 2025 sobre AI-Sec.
 
 *   [AI RMF](https://www.nist.gov/itl/ai-risk-management-framework) - AI Risk Management Framework.
 
